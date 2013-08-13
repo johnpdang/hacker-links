@@ -1,4 +1,4 @@
-http://f.cl.ly/items/31401k1h2C3s0Q3p3q0X/Image%202013-08-13%20at%203.42.26%20AM.png
+![...](http://f.cl.ly/items/31401k1h2C3s0Q3p3q0X/Image%202013-08-13%20at%203.42.26%20AM.png "...")
 
 ### SERVICES
 - [http://archive.is/](http://archive.is/)
